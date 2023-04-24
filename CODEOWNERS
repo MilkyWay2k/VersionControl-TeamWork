@@ -1,1 +1,9 @@
-VersionControl-TeamWork/CODEOWNERS @armelant @AndreiSusha @MilkyWay2k
+@MilkyWay2k
+@armelant
+@AndreiSusha
+
+
+
+ "777" @AndreiSusha
+ "test.gitignore" @armelant
+ "file1.py" @MilkyWay2k
